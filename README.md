@@ -33,8 +33,8 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Logo
-![Logo vacío]("C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files\emptylogo.png")
-![Logo normal]("C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files\logo.png")
+![Logo vacío]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/emptylogo.png")
+![Logo normal]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/logo.png")
 ---
 ---
 ---
