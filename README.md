@@ -5,6 +5,8 @@
 Kumo es una tienda online de venta de mangas y comics, así como también varios artículos relacionados 
 al manga-anime y comics. Fue creada con la idea "de fans para fans" y ofrecer el mejor servicio del 
 mercado. 
+Contamos con un equipo de más de 30 personas, distribuidas en diferentes sectores (RRHH, armado de pedidos, despachado depedidos, etc).
+La calidad es nuestra prioridad.
 ---
 ---
 ### Público objetivo
@@ -21,12 +23,18 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Paleta de colores 
-![logo](C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files)
+![logo](C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files\Color Hunt Palette 8e3200a64b2ad7a86effebc1.jpg)
 - 1: rgb(142, 50, 0)
 - 2: rgb(166, 75, 42)
 - 3: rgb(215, 168, 110)
 - 4: rgb(255, 235, 193)   
-[Link](https://colorhunt.co/palette/8e3200a64b2ad7a86effebc1)
+## [Link](https://colorhunt.co/palette/8e3200a64b2ad7a86effebc1)
 ---
 ---
+### Logo
+![logo](https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js)
+---
+---
+---
+# [FIGMA](https://www.figma.com/file/e01f95Xezb6o8HdyLRMNMc/E-commerce?node-id=17%3A232)
 
