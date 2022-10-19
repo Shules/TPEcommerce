@@ -33,7 +33,7 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Logo
-![Logo vacío]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/emptylogo.png")
+![Logo vacío]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/emptylogo.png")   
 ![Logo normal]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/logo.png")
 ---
 ---
