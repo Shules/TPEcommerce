@@ -21,9 +21,9 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Paleta de colores 
-![](C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files)
-- 1: rgb(142, 50, 0)
+![- 1: rgb(142, 50, 0)
 - 2: rgb(166, 75, 42)
 - 3: rgb(215, 168, 110)
-- 4: rgb(255, 235, 193)
+- 4: rgb(255, 235, 193)](https://colorhunt.co/palette/8e3200a64b2ad7a86effebc1)
+
 
