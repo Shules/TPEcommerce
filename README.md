@@ -23,7 +23,7 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Paleta de colores 
-![Paleta]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/paleta.jpg")
+![Paleta]("C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files\paleta.jpg")
 
 - 1: rgb(142, 50, 0)
 - 2: rgb(166, 75, 42)
@@ -33,8 +33,8 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Logo
-![Logo vacío]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/emptylogo.png")   
-![Logo normal]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/logo.png")
+![Logo vacío]() 
+![Logo normal]()
 ---
 ---
 ---
