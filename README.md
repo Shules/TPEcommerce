@@ -23,16 +23,16 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Paleta de colores 
-![logo](C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files\Color Hunt Palette 8e3200a64b2ad7a86effebc1.jpg)
+![logo](C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files\paleta.jpg)
 - 1: rgb(142, 50, 0)
 - 2: rgb(166, 75, 42)
 - 3: rgb(215, 168, 110)
 - 4: rgb(255, 235, 193)   
-## [Link](https://colorhunt.co/palette/8e3200a64b2ad7a86effebc1)
+## [Colorhunt link](https://colorhunt.co/palette/8e3200a64b2ad7a86effebc1)
 ---
 ---
 ### Logo
-![logo](https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js)
+![logo](https://api.iconify.design/file-icons/animestudio.svg)
 ---
 ---
 ---
