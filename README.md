@@ -23,7 +23,7 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Paleta de colores 
-![Paleta]("C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files\paleta.jpg")
+![Paleta](C:\Users\julia\Desktop\Curso fullstack\TPEcommerce\files\paleta.jpg)
 
 - 1: rgb(142, 50, 0)
 - 2: rgb(166, 75, 42)
