@@ -23,7 +23,8 @@ Aun sin decidir, las opciones consideradas son:
 ---
 ---
 ### Paleta de colores 
-![Paleta]("https://github.com/Shules/TPEcommerce/blob/dev/files/paleta.jpg")
+![Paleta]("https://raw.githubusercontent.com/Shules/TPEcommerce/dev/files/paleta.jpg")
+
 - 1: rgb(142, 50, 0)
 - 2: rgb(166, 75, 42)
 - 3: rgb(215, 168, 110)
